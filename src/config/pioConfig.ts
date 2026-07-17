@@ -1,9 +1,10 @@
+import type { truncate } from "node:fs";
 import type { Live2DWidgetConfig, SpineModelConfig } from "../types/pioConfig";
 
 // Spine 看板娘配置
 export const spineModelConfig: SpineModelConfig = {
 	// Spine 看板娘开关
-	enable: false,
+	enable: true,
 
 	// Spine模型配置
 	model: {
