@@ -33,5 +33,9 @@
   "src:content/posts/images/both-list.avif": "e5e7e4e6e8e7e3e3e5",
   "src:content/posts/images/both-grid.avif": "d5d6d3e6e7e3d8d9e3",
   "src:content/posts/images/1.avif": "b5b0b3bcb6bbe0e0df",
-  "src:content/posts/guide/cover.avif": "c8bca9dde6d2babfb5"
+  "src:content/posts/guide/cover.avif": "c8bca9dde6d2babfb5",
+  "public:assets/images/25.jpg": "efdad8f9ebe7f9e5df",
+  "src:content/dynamic/images/25.jpg": "efdad8f9ebe7f9e5df",
+  "src:content/dynamic/images/25.avif": "eedad8f9eae7f8e5df",
+  "src:content/posts/images/bac3.avif": "2f79e34ea0f2a3a580"
 }
