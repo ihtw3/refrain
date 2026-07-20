@@ -6,7 +6,12 @@
 
 这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
 
-**写一点不正经的文章之类** 希望大家看得开心，和我共同进步！
+
+
+
+**写一点不正经的文章之类**   希望大家看得开心，和我共同进步！
+
+![p1](../dynamic/images/25.avif)
 
 
 
