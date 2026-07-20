@@ -1,6 +1,6 @@
 ---
 title: 第一篇文章,写点什么好呢~
-published: 2026-7-19
+published: 2026-07-19
 description: 学了一下markdown,好方便
 image: ./images/bac3.avif
 tags: [markdown,日记,随笔]
