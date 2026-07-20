@@ -28,7 +28,7 @@ export const friendsConfig: FriendLink[] = [
 			"https://s41.ax1x.com/2026/07/20/pm6aZIx.jpg",
 		desc: "记录生活并分享经历的赛博小窝。",
 		siteurl: "https://blog.50982026.xyz",
-		tags: ["allegretto"],
+		tags: ["Blog"],
 		weight: 10, // 权重，数字越大排序越靠前
 		enabled: true, // 是否启用
 	},
@@ -37,7 +37,7 @@ export const friendsConfig: FriendLink[] = [
 		imgurl: "https://q1.qlogo.cn/g?b=qq&nk=1323860289&s=640",
 		desc: "分享生活和技术。",
 		siteurl: "https://blog.amamo.top",
-		tags: ["Framework"],
+		tags: ["Blog"],
 		weight: 8,
 		enabled: true,
 	}
